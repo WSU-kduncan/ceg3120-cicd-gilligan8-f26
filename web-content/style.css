@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color:  #6D4B8F;
+    background-color: lavenderblush;
+    margin: 0;
+}
+
+p {
+    font-size: 20px;
+    color:  #6D4B8F;
+}
+h1, h2, h4, h5, h6 {
+    
+    
+    color: darkgreen;
+}
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 20px;
+}
+h3 {
+    color: darkgreen;
+    font-size: 15px;
+}
+ul {
+    
+  
+  margin: 0;
+  padding: 10px;
+  gap: 15px;
+}
+.navbar{
+    background-color: black;
+    
+    overflow: hidden;
+}
+.navbar a{
+    display: block;
+}
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    font-size: 0;
+    
+}
+.navbar ul li a{
+  text-decoration: none;
+  padding: 14px 16px;
+  margin: 0;
+ 
+  color: azure;
+  font-size: 17px;
+}
+.navbar ul li a:hover{
+    background-color: grey;
+}
+.navbar ul li a:visited{
+    color: white;
+}
+.navbar ul li {
+    display: inline-block;
+}
+
+.demotable td {
+    border: 1px solid black;
+    padding: 10px;
+}
+.demotable{
+    border-collapse: collapse;
+}
+.tdcenter{
+    text-align: center;
+    background-color: azure;
+}
+.active{
+    background-color: green;
+}
+#externalLink{
+    float: right;
+}
+.container{
+
+}
+.content{
+padding: 10px;
+}
+.rowflex{
+    display: flex;
+    
+}
+.leftflex{
+    flex: 50%;
+    padding: 20px;
+    border: 1px solid black;
+}
+.rightflex{
+    flex: 50%;
+    padding: 20px;
+}

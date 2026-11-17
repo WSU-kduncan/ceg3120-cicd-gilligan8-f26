@@ -16,7 +16,11 @@
 
 ## Paragraphs
 
-Put two spaces after this line followed by `Enter` to start new line.
+Put two spaces after this line followed by `Enter` to start new line.  
+
+ 
+ 
+
 
 Just hitting the enter key doesn't work
 
@@ -68,11 +72,11 @@ This is a link to [README.md](README.md)
 
 ````
 Single out one word with `single` back quotes
-\```
+```
 Block off a chunk off code by
    surrounding it
    with triple back quotes
-\```
+```
 ````
 
 Single out one word with `single` back quotes
